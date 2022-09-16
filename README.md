@@ -11,4 +11,9 @@
 8) in terminal type => os install
 
 # How to run git commands
-1) In terminal, 
+1) In terminal, type => git add -A
+2) In terminal, type => git commit -m "first commit"
+3) In terminal, type => git push
+
+# Best practices for git commands
+1) run git commands every five minutes to ensure your work is saved
